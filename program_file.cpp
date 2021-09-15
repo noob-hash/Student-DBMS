@@ -282,6 +282,11 @@ memory accolation to manage memory space of program,
 makeshift interface,
 easier interface process like rejecting incorrect data format input, automatic editing, etc,
 make program buffer overflow proof. 
-and so on.
- 
+and so on. 
+*/
+
+/*future improvements
+memory management
+more service
+customize data inputs
 */
